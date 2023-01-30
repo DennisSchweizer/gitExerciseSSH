@@ -1,2 +1,4 @@
 An awesome application code.
 I wrote even better code right now.
+More text before cherry pick
+This line contains the feature which will  be cherry picked
