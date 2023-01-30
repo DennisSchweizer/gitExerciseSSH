@@ -1,1 +1,2 @@
-An awesome application code
+An awesome application code.
+I wrote even better code right now.
